@@ -1,5 +1,6 @@
-
+test_CRMDashboard_streaming.py
 subscriptions.json
+cloud_consume_upstash_to_bigquery.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
