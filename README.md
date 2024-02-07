@@ -5,7 +5,7 @@ The purpose of this project is to create a data pipeline to stream live data fro
 
 2- Using rest hook subscriptions the data is produced to a Kafka cluster
 
-3- The data is then consumed to a BigQuery dataset
+3- The data is then consumed to a BigQuery dataset immediately, via a rest hook trigger and Google Cloud Functions
 
 4- The data is transformed through DBT and a mart layer is created in BigQuery
 
